@@ -1,6 +1,6 @@
 # MaisPraTi_Atividade 08
 
-# Lista de Exercícios - README
+# Lista de Exercícios 
 
 ## Descrição
 
