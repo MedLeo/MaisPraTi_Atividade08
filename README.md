@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Este repositório contém uma lista de exercícios para prática de lógica de programação e manipulação de dados em linguagens como Python, JavaScript ou qualquer linguagem de sua escolha. Os exercícios abordam conceitos como operações matemáticas, manipulação de strings e listas, algoritmos recursivos e jogos interativos.
+Este repositório contém uma lista de exercícios para prática de lógica de programação e manipulação de dados em linguagem Java. Os exercícios abordam conceitos como operações matemáticas, manipulação de strings e listas, algoritmos recursivos e jogos interativos.
 
 ## Exercícios
 
